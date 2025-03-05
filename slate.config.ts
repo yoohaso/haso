@@ -5,9 +5,9 @@ import { defineConfig } from './src/helpers/config-helper';
 
 export default defineConfig({
   lang: 'en-US',
-  site: 'https://slate-blog-demo.vercel.app',
+  site: 'https://haso.vercel.app',
   avatar: '/avatar.png',
-  title: 'Slate Blog',
+  title: 'Hansol Blog',
   description: 'Pure thoughts, simple stories.',
   lastModified: true,
   readTime: true,
@@ -17,7 +17,7 @@ export default defineConfig({
   socialLinks: [
     {
       icon: 'github',
-      link: 'https://github.com/SlateDesign/slate-blog'
+      link: 'https://github.com/yoohaso'
     },
 ]
 });
